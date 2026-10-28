@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Raw datasets — download separately
+data/raw/
+data/splits/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db

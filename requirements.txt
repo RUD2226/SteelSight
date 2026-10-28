@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+torch==2.14.1+cu132
+torchvision==0.29.2+cu132
+streamlit
+scikit-learn
+matplotlib
+numpy
+Pillow

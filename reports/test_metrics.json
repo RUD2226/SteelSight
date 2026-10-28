@@ -1,0 +1,17 @@
+{
+    "model": "ResNet18",
+    "device": "cuda",
+    "test_images": 360,
+    "test_loss": 0.02162242745463219,
+    "test_accuracy": 0.9944444444444445,
+    "test_macro_f1": 0.9944429008057795,
+    "evaluation_seconds": 3.277,
+    "class_names": [
+        "crazing",
+        "inclusion",
+        "patches",
+        "pitted_surface",
+        "rolled-in_scale",
+        "scratches"
+    ]
+}
